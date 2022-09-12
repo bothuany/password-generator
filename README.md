@@ -1,16 +1,29 @@
-# passwordgenerator
+# Password Generator
 
-A new Flutter project.
+An application where you can generate and store strong passwords.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+<ul>
+  <li>Generating passwords</li>
+  <li>Storing passwords and other login informations</li>
+  <li>Dark mode support</li>
+  <li>English and Turkish languages support</li>
+</ul>
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p float="left">
+  <img width="30%" src="https://github.com/rbdikmen/password-generator/blob/main/screenshots/1.png"/>
+  <img width="30%" src="https://github.com/rbdikmen/password-generator/blob/main/screenshots/2.png"/>
+  <img width="30%" src="https://github.com/rbdikmen/password-generator/blob/main/screenshots/3.png"/>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img width="30%" src="https://github.com/rbdikmen/password-generator/blob/main/screenshots/4.png"/>
+  <img width="30%" src="https://github.com/rbdikmen/password-generator/blob/main/screenshots/5.png"/>
+  <img width="30%" src="https://github.com/rbdikmen/password-generator/blob/main/screenshots/6.png"/>
+</p>
+
+
+
