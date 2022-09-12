@@ -59,7 +59,7 @@ class _SavePasswordsScreenState extends State {
       padding: EdgeInsets.all(16),
       child: TextField(
         controller: nameController,
-        maxLength: 28,
+        maxLength: 32,
         textInputAction: TextInputAction.next,
         decoration: InputDecoration(
           labelText: 'name'.tr,
@@ -74,7 +74,7 @@ class _SavePasswordsScreenState extends State {
       padding: EdgeInsets.all(16),
       child: TextField(
         controller: emailController,
-        maxLength: 28,
+        maxLength: 32,
         textInputAction: TextInputAction.next,
         decoration: InputDecoration(
           labelText: 'email'.tr,
@@ -90,7 +90,7 @@ class _SavePasswordsScreenState extends State {
       padding: EdgeInsets.all(16),
       child: TextField(
         controller: usernameController,
-        maxLength: 28,
+        maxLength: 32,
         textInputAction: TextInputAction.next,
         decoration: InputDecoration(
           labelText: 'username'.tr,
@@ -107,7 +107,7 @@ class _SavePasswordsScreenState extends State {
       padding: EdgeInsets.all(16),
       child: TextField(
         controller: passwordController,
-        maxLength: 28,
+        maxLength: 32,
         textInputAction: TextInputAction.next,
         decoration: InputDecoration(
           labelText: 'password'.tr,

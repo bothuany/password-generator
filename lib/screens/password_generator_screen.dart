@@ -191,7 +191,7 @@ class _PasswordGeneratorScreenState extends State {
       child: TextField(
         controller: passwordController,
         textInputAction: TextInputAction.done,
-        maxLength: 28,
+        maxLength: 32,
         decoration: InputDecoration(
           labelText: "generated_password".tr,
           border: OutlineInputBorder(),

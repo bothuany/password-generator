@@ -64,7 +64,7 @@ class _SavedPasswordDetailsScreenState extends State {
         child: TextField(
           controller: nameController,
           textInputAction: TextInputAction.done,
-          maxLength: 28,
+          maxLength: 32,
           decoration: InputDecoration(
             labelText: 'name'.tr,
             suffixIcon: IconButton(
@@ -138,7 +138,7 @@ class _SavedPasswordDetailsScreenState extends State {
         child: TextField(
           controller: emailController,
           textInputAction: TextInputAction.done,
-          maxLength: 28,
+          maxLength: 32,
           decoration: InputDecoration(
             labelText: 'email'.tr,
             suffixIcon: IconButton(
@@ -211,7 +211,7 @@ class _SavedPasswordDetailsScreenState extends State {
         child: TextField(
           controller: usernameController,
           textInputAction: TextInputAction.done,
-          maxLength: 28,
+          maxLength: 32,
           decoration: InputDecoration(
             labelText: 'username'.tr,
             suffixIcon: IconButton(
@@ -284,7 +284,7 @@ class _SavedPasswordDetailsScreenState extends State {
         child: TextField(
           controller: passwordController,
           textInputAction: TextInputAction.send,
-          maxLength: 28,
+          maxLength: 32,
           decoration: InputDecoration(
             labelText: 'password'.tr,
             suffixIcon: IconButton(
